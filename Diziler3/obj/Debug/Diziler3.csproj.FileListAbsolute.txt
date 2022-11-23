@@ -1,0 +1,8 @@
+C:\Users\cinar\source\repos\Diziler3\Diziler3\bin\Debug\Diziler3.exe.config
+C:\Users\cinar\source\repos\Diziler3\Diziler3\bin\Debug\Diziler3.exe
+C:\Users\cinar\source\repos\Diziler3\Diziler3\bin\Debug\Diziler3.pdb
+C:\Users\cinar\source\repos\Diziler3\Diziler3\obj\Debug\Diziler3.csproj.AssemblyReference.cache
+C:\Users\cinar\source\repos\Diziler3\Diziler3\obj\Debug\Diziler3.csproj.SuggestedBindingRedirects.cache
+C:\Users\cinar\source\repos\Diziler3\Diziler3\obj\Debug\Diziler3.csproj.CoreCompileInputs.cache
+C:\Users\cinar\source\repos\Diziler3\Diziler3\obj\Debug\Diziler3.exe
+C:\Users\cinar\source\repos\Diziler3\Diziler3\obj\Debug\Diziler3.pdb
